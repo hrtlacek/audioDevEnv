@@ -1,0 +1,13 @@
+
+{"shortcuts": [
+  {
+            "command": "runmenu:restart-and-run-all",
+            "keys": [
+                "F9"
+            ],
+            "selector": "[data-jp-code-runner]"
+  }  ]   
+}
+
+password: audio
+'sha1:f3dcd4ca42c1:b1250f5136bb8962abe1a868585781d373571559'
